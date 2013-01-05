@@ -5,22 +5,7 @@
   <id>http://chibicode.com/</id>
   <link href="http://chibicode.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-01-02T08:00:00Z</updated>
   <author>
     <name>Shu Uesugi</name>
   </author>
-  <entry>
-    <title>Elle</title>
-    <link rel="alternate" href="/elle/"/>
-    <id>/elle/</id>
-    <published>2013-01-02T08:00:00Z</published>
-    <updated>2013-01-02T08:00:00Z</updated>
-    <author>
-      <name>Shu Uesugi</name>
-    </author>
-    <summary type="html">&lt;p&gt;Elle&lt;/p&gt;
-</summary>
-    <content type="html">&lt;p&gt;Elle&lt;/p&gt;
-</content>
-  </entry>
 </feed>
