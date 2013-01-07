@@ -1,0 +1,7 @@
+@import"neat/neat-helpers";
+$max-width: 960px;
+$mobile: new-breakpoint(max-width 767px 1);
+
+@function baseline($n: 1) {
+  @return $n * 24px;
+}

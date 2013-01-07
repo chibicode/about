@@ -1,0 +1,44 @@
+#blocks {
+  display: block;
+  float: left;
+  margin-right: 5px;
+  height: baseline();
+  position: relative;
+  width: 18px;
+}
+
+.block {
+  display: block;
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #444;
+  a:hover & { background-color: #444; }
+}
+
+#block-left {
+  width: 8px;
+  height: 14px;
+  top: 1px;
+  left: 0px;
+}
+
+#block-bottom {
+  width: 18px;
+  height: 6px;
+  top: 17px;
+  left: 0px;
+}
+
+#block-right-top {
+  width: 8px;
+  height: 6px;
+  top: 1px;
+  left: 10px;
+}
+
+#block-right-bottom {
+  width: 8px;
+  height: 6px;
+  top: 9px;
+  left: 10px;
+}

@@ -1,0 +1,58 @@
+doctype html
+html lang="en"
+  head
+    meta charset="utf-8"
+    meta property="og:site_name" content="Shu Uesugi"/
+    meta property="og:title" content="#{current_page.data.title || 'Shu Uesugi'}"
+    - if current_page.data.home || current_page.data.special
+      meta property="og:type" content="website"
+    - else
+      meta property="og:type" content="article"
+    meta property="og:url" content="http://chibicode.com#{current_page.url}"
+    meta property="og:image" content="http://chibicode.com/images/chibicode.png"
+    meta property="fb:admins" content="1227210274"
+    meta name="viewport" content="width=device-width, initial-scale=1.0"
+    title
+      - if current_page.data.title
+        = "#{current_page.data.title} | Shu Uesugi"
+      - else
+        | Shu Uesugi
+    link rel="stylesheet" href="/stylesheets/chibicode.css"
+    link rel="icon" type="image/png" href="/images/favicon.png"
+    script type="text/javascript" src="//use.typekit.net/mkc8sga.js"
+    javascript:
+      try{Typekit.load();}catch(e){}
+  body
+    #container
+      header
+        #header-col
+          #logo
+            a#logo-link href="/"
+              span#blocks
+                span.block#block-left
+                span.block#block-right-top
+                span.block#block-right-bottom
+                span.block#block-bottom
+              - unless current_page.data.home
+                | &larr; <span>Home</span>
+          - if current_page.data.home || current_page.data.special && !current_page.data.not_found
+            #blurb
+              == partial "_partials/blurb"
+              nav
+                ul
+                  - if current_page.data.home
+                    == partial "_partials/blurb_navi"
+                  == partial "_partials/blurb_metadata"
+      section
+        == yield
+      - if !current_page.data.home && !current_page.data.special
+        footer
+          #footer-col
+            #blurb
+              == partial "_partials/blurb"
+            nav
+              ul
+                == partial "_partials/blurb_navi"
+                == partial "_partials/blurb_metadata"
+
+    script type="text/javascript" src="/javascripts/chibicode.js"

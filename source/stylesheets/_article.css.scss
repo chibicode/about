@@ -1,0 +1,130 @@
+article {
+  margin-bottom: baseline(2);
+  @include row();
+  @include media($mobile) {
+    border-top: 1px solid #444;
+    padding-top: baseline(1);
+  }
+}
+
+.article-metadata {
+  @include span-columns(2);
+  @include media($mobile) {
+    @include span-columns(1);
+    @include shift(0);
+    margin-bottom: baseline(1);
+  }
+  a {
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+}
+
+.article-content {
+  @include span-columns(9);
+  @include media($mobile) {
+    @include span-columns(1);
+    @include shift(0);
+  }
+  @include omega;
+  li {
+    @include media($mobile) {
+      margin-left: 18px;
+    }
+  }
+  blockquote p {
+    @include fill-parent;
+  }
+  p, ul, blockquote {
+    @include span-columns(6 of 9);
+    @include media($mobile) {
+      @include span-columns(1);
+      @include shift(0);
+    }
+  }
+  h2 {
+    clear: both;
+    @include span-columns(2 of 9);
+    // Everything after h2 indents until hr
+    margin-bottom: -9999px;
+    ~ p, ~ ul, ~ blockquote {
+      @include shift(2);
+      @include media($mobile) {
+        @include span-columns(1);
+        @include shift(0);
+      }
+    }
+    @include media($mobile) {
+      @include span-columns(1);
+      @include shift(0);
+      margin-bottom: baseline(1);
+      text-transform: uppercase;
+    }
+  }
+  // Clears indent
+  hr {
+    clear: both;
+    border: none;
+    margin: 0px;
+  }
+  h2 ~ hr {
+    @include media($mobile) {
+      border-top: 1px dashed #444;
+      width: 20px;
+      margin-bottom: baseline(1);
+    }
+    ~ p, ~ul, ~blockquote {
+      @include shift(0);
+    }
+  }
+}
+
+#article-list {
+  margin-top: baseline(1);
+  list-style-type: none;
+  @include span-columns(8 of 12);
+  li {
+    @include row();
+    margin-bottom: baseline(1);
+  }
+  @include media($mobile) {
+    @include span-columns(1);
+  }
+}
+
+.article-list-date {
+  @include span-columns(2 of 8);
+  text-align: right;
+  @include media($mobile) {
+    @include span-columns(1);
+    text-align: left;
+  }
+}
+
+.article-list-title {
+  @include omega;
+  @include span-columns(6 of 8);
+  @include media($mobile) {
+    @include span-columns(1);
+  }
+}
+
+input.search {
+  border: 1px solid #444;
+  padding: baseline(0.25) 5px;
+  color: #444;
+  font-family: "jaf-facitweb", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  vertical-align: middle;
+  width: 200px;
+  @include span-columns(4);
+  @include shift(2);
+  @include media($mobile) {
+    @include span-columns(1);
+    width: 80%;
+    padding: baseline(0.25) 10px;
+    @include shift(0);
+  }
+}
+

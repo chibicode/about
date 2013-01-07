@@ -1,0 +1,6 @@
+---
+home: true
+---
+
+- blog.articles[0..10].each do |article|
+  == partial "_partials/article", :locals => { :title =>  article.title, :url => "/" + article.slug + "/", :date => article.date, :content => article.body, :tweet => true }

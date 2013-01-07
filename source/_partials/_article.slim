@@ -1,0 +1,14 @@
+article
+  .article-metadata
+    h1
+      == link_to title, url
+    - unless date.nil?
+      == link_to date.strftime("%h%e, %Y"), url
+  .article-content
+    == content
+    - if tweet
+      p
+        img src="/images/bird.png" width="16"
+        | &nbsp;
+        == link_to "Tweet this article", "https://twitter.com/intent/tweet?url=#{url_encode('http://chibicode.com' + url)}&via=chibicode&text=#{url_encode(title)}", :target => "_blank"
+
