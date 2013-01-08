@@ -6,6 +6,7 @@
 
 # Ignore bundler config
 /.bundle
+publish.sh
 
 # Ignore the build directory
 /build
