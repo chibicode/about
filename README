@@ -1,0 +1,1 @@
+This repository contains the content for http://chibicode.com. All content, design (including images and CSS, except ones downloaded from the web) are copyright Shusaku Uesugi and may not be used without permission.

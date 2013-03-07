@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shu Uesugi</title>
+  <subtitle>@chibicode</subtitle>
+  <id>http://chibicode.com/</id>
+  <link href="http://chibicode.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <author>
+    <name>Shu Uesugi</name>
+  </author>
+</feed>
