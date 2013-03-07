@@ -40,8 +40,8 @@ html lang="en"
               == partial "_partials/blurb"
               nav
                 ul
-                  - if current_page.data.home
-                    == partial "_partials/blurb_navi"
+                  /- if current_page.data.home
+                    /== partial "_partials/blurb_navi"
                   == partial "_partials/blurb_metadata"
       section
         == yield
@@ -52,7 +52,7 @@ html lang="en"
               == partial "_partials/blurb"
             nav
               ul
-                == partial "_partials/blurb_navi"
+                /== partial "_partials/blurb_navi"
                 == partial "_partials/blurb_metadata"
 
     script type="text/javascript" src="/javascripts/chibicode.js"
