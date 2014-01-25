@@ -26,3 +26,5 @@ Works at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a> in Silic
 <a href="http://github.com/chibicode" target="_blank">GitHub</a> /
 <a href="http://www.linkedin.com/in/chibicode" target="_blank">LinkedIn</a> /
 <a href="https://plus.google.com/110325199858284431541?rel=author" target="_blank">Google+</a>
+
+This page is built using [Solo](http://chibicode.github.io/solo/). &copy;Shusaku Uesugi 2014
