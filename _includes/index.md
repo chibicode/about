@@ -1,4 +1,4 @@
-Works at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a> in Silicon Valley. We're looking for software engineers. <a href="http://careers.edsurge.com/2014/01/17/software-engineer/" target="_blank">Apply here</a>.
+I'm a designer at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a> in Silicon Valley. We're looking for software engineers. <a href="http://careers.edsurge.com/2014/01/17/software-engineer/" target="_blank">Apply here</a>.
 
 <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large">Follow @chibicode</a></span>
 
