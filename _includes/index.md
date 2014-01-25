@@ -1,68 +1,28 @@
+Works at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a> in Silicon Valley. We're looking for software engineers. <a href="http://careers.edsurge.com/2014/01/17/software-engineer/" target="_blank">Apply here</a>.
 
+<a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large">Follow @chibicode</a></span>
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that only supports **single-page websites**, but supports them well. If you want to create a single-page website that's mostly text, like <a href="https://knowyourcompany.com/" target="_blank">Know Your Company</a>, Solo would be a good choice. Solo is also useful if you just want to showcase a single markdown file.
+![Shu Uesugi 上杉周作](http://chibicode.com/images/shu-uesugi.jpg)
 
-<iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+## Writings in English
 
-## Example
+<a href="https://medium.com/what-i-learned-building/fe6a2067d770" target="_blank">Teaching Someone To Code Is Partly A Hardware Problem</a> <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://medium.com/what-i-learned-building/fe6a2067d770" data-text="Teaching Someone To Code Is Partly A Hardware Problem">Tweet</a>
 
-This page is built using Solo, as well as my <a href="https://chibicode.com/" target="_blank">personal website</a>. Solo supports lists, `<hr>`'s, tables,
+<a href="https://medium.com/who-i-am/597e51e988db" target="_blank">The Mario Kart Principle Of Education</a> <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://medium.com/who-i-am/597e51e988db" data-text="The Mario Kart Principle Of Education">Tweet</a>
 
-> blockquotes, and...
+## Writings in Japanese
 
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
+<a href="http://naze.chibicode.com/post/66112027707/y" target="_blank">Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという話</a> <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://naze.chibicode.com/post/66112027707/y" data-text="Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという話" data-lang="ja">ツイート</a>
 
-## Usage
+<a href="https://medium.com/in-japanese/b5c7fcb1d21a" target="_blank">メガネが壊れたときの話</a> <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://medium.com/in-japanese/b5c7fcb1d21a" data-text="メガネが壊れたときの話" data-lang="ja">ツイート</a>
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/poole/poole). Start Jekyll and you should see this page up and running.
+他の記事は<a href="http://naze.chibicode.com" target="_blank">わたしのブログ</a>で読めます。わたしの漢字名は「上杉周作」です。</p>
 
-**The main file you'll be editing is `_includes/index.md`**. This becomes the content for the main `index.html`.
+## Contact
 
-### Other Files
-
-* Edit `_includes/title` to change the site title.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
-
-### Don't use `<h1>` tags
-
-Wthin `solo.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
-
-### Keep Solo up to date
-
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and [use "upstream" strategy described on this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
-
-## Author
-
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)).
-
-![Shu Uesugi](http://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=100)
-
-### License
-
-Copyright (c) 2014 Shusaku Uesugi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
-<a href="https://github.com/chibicode/solo"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+<a href="mailto:shu@chibicode.com">Email</a> /
+<a href="http://twitter.com/chibicode" target="_blank">Twitter</a> /
+<a href="http://facebook.com/shu" target="_blank">Facebook</a> /
+<a href="http://github.com/chibicode" target="_blank">GitHub</a> /
+<a href="http://www.linkedin.com/in/chibicode" target="_blank">LinkedIn</a> /
+<a href="https://plus.google.com/110325199858284431541?rel=author" target="_blank">Google+</a>
