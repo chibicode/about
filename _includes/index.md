@@ -8,18 +8,18 @@ I'm a designer at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a>
 
 ## Contact
 
-<a href="mailto:shu@chibicode.com">Email</a> /
-<a href="http://twitter.com/chibicode" target="_blank">Twitter</a> /
-<a href="http://facebook.com/shu" target="_blank">Facebook</a> /
-<a href="http://github.com/chibicode" target="_blank">GitHub</a> /
-<a href="http://www.linkedin.com/in/chibicode" target="_blank">LinkedIn</a> /
-<a href="https://plus.google.com/110325199858284431541?rel=author" target="_blank">Google+</a>
+* [shu@chibicode.com](mailto:shu@chibicode.com)
+* [Twitter](http://twitter.com/chibicode)
+* [Facebook](http://facebook.com/shu)
+* [GitHub](http://github.com/chibicode)
+* [LinkedIn](http://www.linkedin.com/in/chibicode)
+* [Google+](https://plus.google.com/110325199858284431541?rel=author)
 
 ## Writings
 
-<a href="https://medium.com/what-i-learned-building/fe6a2067d770" target="_blank">Teaching Someone To Code Is Partly A Hardware Problem</a> <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://medium.com/what-i-learned-building/fe6a2067d770" data-text="Teaching Someone To Code Is Partly A Hardware Problem">Tweet</a>
+[Teaching Someone To Code Is Partly A Hardware Problem](https://medium.com/what-i-learned-building/fe6a2067d770) <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://medium.com/what-i-learned-building/fe6a2067d770" data-text="Teaching Someone To Code Is Partly A Hardware Problem">Tweet</a>
 
-<a href="https://medium.com/who-i-am/597e51e988db" target="_blank">The Mario Kart Principle Of Education</a> <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://medium.com/who-i-am/597e51e988db" data-text="The Mario Kart Principle Of Education">Tweet</a>
+[The Mario Kart Principle Of Education](https://medium.com/who-i-am/597e51e988db) <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://medium.com/who-i-am/597e51e988db" data-text="The Mario Kart Principle Of Education">Tweet</a>
 
 ## Colophon
 
