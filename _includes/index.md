@@ -1,6 +1,6 @@
 I'm a designer at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a> in Silicon Valley. We're looking for software engineers. <a href="http://careers.edsurge.com/2014/01/17/software-engineer/" target="_blank">Apply here</a>.
 
-[(日本語で読む)](http://j.chibicode.com/)
+[このページを日本語で読む](http://j.chibicode.com/)
 
 <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large">Follow @chibicode</a>
 
