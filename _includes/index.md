@@ -23,4 +23,6 @@ I'm a designer at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a>
 
 ## Colophon
 
-This page is built using [Solo](http://chibicode.github.io/solo/). &copy; 2014 Shusaku Uesugi.
+This page is built using [Solo](http://chibicode.github.io/solo/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" ><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
