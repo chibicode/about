@@ -1,8 +1,10 @@
 I'm a designer at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a> in Silicon Valley. We're looking for software engineers. <a href="http://careers.edsurge.com/2014/01/17/software-engineer/" target="_blank">Apply here</a>.
 
-[日本語のページはこちらです](http://j.chibicode.com/)。
+[日本語の自己紹介はこちらです](http://j.chibicode.com/)。
 
 <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large">Follow @chibicode</a>
+
+![Shu Uesugi](http://chibicode.com/images/shu-uesugi.jpg)
 
 ## Contact
 
