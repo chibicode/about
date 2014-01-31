@@ -2,7 +2,7 @@ I'm a designer at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a>
 
 [このページを日本語で読む](http://j.chibicode.com/)
 
-<a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large">Follow @chibicode</a>
+<a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large"></a>
 
 ![Shu Uesugi](http://chibicode.com/images/shu-uesugi.jpg)
 
