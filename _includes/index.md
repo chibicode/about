@@ -24,13 +24,13 @@ I'm a designer at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a>
 
 The official Medium account tweeted my post:
 
-<blockquote class="twitter-tweet" lang="en"><p>“Teaching Someone To Code Is Partly A Hardware Problem” by <a href="https://twitter.com/chibicode">@chibicode</a> <a href="https://t.co/rfiyUbHIPW">https://t.co/rfiyUbHIPW</a></p>&mdash; Medium (@Medium) <a href="https://twitter.com/Medium/statuses/369550937817235456">August 19, 2013</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>“Teaching Someone To Code Is Partly A Hardware Problem” by <a href="https://twitter.com/chibicode">@chibicode</a> <a href="https://t.co/rfiyUbHIPW">https://t.co/rfiyUbHIPW</a></p>&mdash; Medium (@Medium) <a href="https://twitter.com/Medium/statuses/369550937817235456">August 19, 2013</a></blockquote>
 
 I have a Japanese blog which gets a lot of traffic, and this is from when I promoted my favorite newsletters, [Hacker Newsletter](http://www.hackernewsletter.com/) and [The Changelog](http://thechangelog.com/).
 
-<blockquote class="twitter-tweet" lang="en"><p>Big thank you to <a href="https://twitter.com/chibicode">@chibicode</a> for the Hacker Newsletter mention and all the new subscribers from Japan - <a href="http://t.co/Gkqo0ki2kE">http://t.co/Gkqo0ki2kE</a></p>&mdash; Kale Davis (@kale) <a href="https://twitter.com/kale/statuses/427656079380455425">January 27, 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>Big thank you to <a href="https://twitter.com/chibicode">@chibicode</a> for the Hacker Newsletter mention and all the new subscribers from Japan - <a href="http://t.co/Gkqo0ki2kE">http://t.co/Gkqo0ki2kE</a></p>&mdash; Kale Davis (@kale) <a href="https://twitter.com/kale/statuses/427656079380455425">January 27, 2014</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p>Looks like our new friend <a href="https://twitter.com/chibicode">@chibicode</a> was spreading the love about Weekly! Respect. <a href="http://t.co/nog26ZXkHv">http://t.co/nog26ZXkHv</a> <a href="https://twitter.com/search?q=%23biginjapan&amp;src=hash">#biginjapan</a></p>&mdash; The Changelog (@TheChangelog) <a href="https://twitter.com/TheChangelog/statuses/427336666341068800">January 26, 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>Looks like our new friend <a href="https://twitter.com/chibicode">@chibicode</a> was spreading the love about Weekly! Respect. <a href="http://t.co/nog26ZXkHv">http://t.co/nog26ZXkHv</a> <a href="https://twitter.com/search?q=%23biginjapan&amp;src=hash">#biginjapan</a></p>&mdash; The Changelog (@TheChangelog) <a href="https://twitter.com/TheChangelog/statuses/427336666341068800">January 26, 2014</a></blockquote>
 
 ## Colophon
 
