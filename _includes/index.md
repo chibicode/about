@@ -9,6 +9,7 @@ I'm a designer at <a href="https://www.edsurge.com/" target="_blank">EdSurge</a>
 ## Contact
 
 * [shu@chibicode.com](mailto:shu@chibicode.com)
+* [Facebook](http://facebook.com/shu)
 * [Twitter](http://twitter.com/chibicode)
 * [GitHub](http://github.com/chibicode)
 * [LinkedIn](http://www.linkedin.com/in/chibicode)
