@@ -1,4 +1,4 @@
-This repository contains the content for http://chibicode.com.
+This repository contains the content that used to be at http://chibicode.com.
 
 ### License
 
